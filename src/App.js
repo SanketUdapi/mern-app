@@ -2,7 +2,7 @@ import React from 'react';
 import { GlobalStyle } from './globalstyles';
 import { BrowserRouter as Router, Route, /*Link */Switch,Redirect} from "react-router-dom";
 import Mainpage from './pages/mainstuff/mainstuff';
-import NotFound from './pages/notfound/NotFound';
+
 import Snackspage from './pages/snacks/snacks';
 import Sweetspage from './pages/sweets/sweets'
 import Allitems from './pages/allitems/allitems'
