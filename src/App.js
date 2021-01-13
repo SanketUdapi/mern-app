@@ -15,7 +15,6 @@ function App() {
       <GlobalStyle/>
       <Switch>
         <Route exact path='/' component={Mainpage}></Route>
-        <Route exact path='/404' component={NotFound}></Route>
         <Route exact path='/sweet' component={Sweetspage}></Route>
         <Route exact path='/snack' component={Snackspage}></Route>
         <Route exact path='/allitems' component={Allitems}></Route>
