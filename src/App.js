@@ -21,7 +21,6 @@ function App() {
         <Route exact path='/contact' component={Contact}></Route>
         <Route exact path="/face" render={() => (window.location = "https://www.facebook.com/VIJAY-Bhavan-sweet-mart-288084031534978/videos/")} /> 
         <Route exact path="/address" render={() => (window.location = "https://goo.gl/maps/NLGHCTegAHQkVArM9")} /> 
-        <Redirect to='/404'/>
       </Switch>
     </Router>
   );
