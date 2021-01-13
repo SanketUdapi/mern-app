@@ -1,6 +1,6 @@
 import React from 'react';
 import { GlobalStyle } from './globalstyles';
-import { BrowserRouter as Router, Route, /*Link */Switch,Redirect} from "react-router-dom";
+import { BrowserRouter as Router, Route, /*Link */Switch} from "react-router-dom";
 import Mainpage from './pages/mainstuff/mainstuff';
 
 import Snackspage from './pages/snacks/snacks';
