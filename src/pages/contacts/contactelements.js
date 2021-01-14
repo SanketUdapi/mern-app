@@ -109,6 +109,7 @@ export const Mail2 = styled.div`
 
 export const Address = styled(Link)`
     font-size:1.5rem;
+    align-items:center;
     margin-bottom:20px;
     color:#FFE9CB;
     cursor: pointer;

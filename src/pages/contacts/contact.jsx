@@ -36,7 +36,7 @@ const Contact = () => {
                 </SocialMail>
                 <SocialMail>
                   <Adicon/>
-                    <Address to="/address"  target="_blank" >161, Main Rd, Dubal Wada, Shukrawar Peth, Karad, Maharashtra 415110</Address>
+                    <Address to="/address"  target="_blank" >34, Guruwar peth, KARAD, 415110</Address>
                 </SocialMail>
                 
                  
