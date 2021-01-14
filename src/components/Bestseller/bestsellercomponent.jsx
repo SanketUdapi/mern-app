@@ -5,7 +5,7 @@ const Bestseller = () => {
   return (
     <FeatureContainer>
       <h1>Best Seller</h1>
-      <p>Kandhi Pedha is the best Pedha yayyy</p>
+      <p>Kandhi Pedha is our Best-seller and once you taste it you will know why...</p>
       
     </FeatureContainer>
   );
