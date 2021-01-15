@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/vijaybhavan2/static/css/main.dd84d343.chunk.css",
-    "main.js": "/vijaybhavan2/static/js/main.2c6e406f.chunk.js",
-    "main.js.map": "/vijaybhavan2/static/js/main.2c6e406f.chunk.js.map",
+    "main.js": "/vijaybhavan2/static/js/main.d6801567.chunk.js",
+    "main.js.map": "/vijaybhavan2/static/js/main.d6801567.chunk.js.map",
     "runtime-main.js": "/vijaybhavan2/static/js/runtime-main.27aaaedf.js",
     "runtime-main.js.map": "/vijaybhavan2/static/js/runtime-main.27aaaedf.js.map",
     "static/js/2.9e0d5b30.chunk.js": "/vijaybhavan2/static/js/2.9e0d5b30.chunk.js",
@@ -17,13 +17,17 @@
     "static/media/batatachivda.7145a404.webp": "/vijaybhavan2/static/media/batatachivda.7145a404.webp",
     "static/media/batatachivdatikhat.442de302.webp": "/vijaybhavan2/static/media/batatachivdatikhat.442de302.webp",
     "static/media/besanladoo.7b6acb9a.webp": "/vijaybhavan2/static/media/besanladoo.7b6acb9a.webp",
+    "static/media/bhakarwadi.d397da6c.webp": "/vijaybhavan2/static/media/bhakarwadi.d397da6c.webp",
     "static/media/bundiladoo.7db25722.webp": "/vijaybhavan2/static/media/bundiladoo.7db25722.webp",
     "static/media/chakli.8c15b004.webp": "/vijaybhavan2/static/media/chakli.8c15b004.webp",
     "static/media/dinkladoo.dadebd96.webp": "/vijaybhavan2/static/media/dinkladoo.dadebd96.webp",
+    "static/media/dudhihalwa.b4bccf15.webp": "/vijaybhavan2/static/media/dudhihalwa.b4bccf15.webp",
     "static/media/farsan.9bb7f55b.webp": "/vijaybhavan2/static/media/farsan.9bb7f55b.webp",
     "static/media/gulabjamun.00dbd616.webp": "/vijaybhavan2/static/media/gulabjamun.00dbd616.webp",
     "static/media/gulkandbarfi.ec4567ef.webp": "/vijaybhavan2/static/media/gulkandbarfi.ec4567ef.webp",
     "static/media/jalebi.93dfbd3f.webp": "/vijaybhavan2/static/media/jalebi.93dfbd3f.webp",
+    "static/media/kacchachivda.22606b3d.webp": "/vijaybhavan2/static/media/kacchachivda.22606b3d.webp",
+    "static/media/kajukatli.f876165c.webp": "/vijaybhavan2/static/media/kajukatli.f876165c.webp",
     "static/media/kandhi2.544e2c06.webp": "/vijaybhavan2/static/media/kandhi2.544e2c06.webp",
     "static/media/kandhipedha.b22ed623.webp": "/vijaybhavan2/static/media/kandhipedha.b22ed623.webp",
     "static/media/kelichips.015e26a1.webp": "/vijaybhavan2/static/media/kelichips.015e26a1.webp",
@@ -33,6 +37,7 @@
     "static/media/khavabarfi.220f53ac.webp": "/vijaybhavan2/static/media/khavabarfi.220f53ac.webp",
     "static/media/logo.5e4e9237.webp": "/vijaybhavan2/static/media/logo.5e4e9237.webp",
     "static/media/mahimhalwa.b840a0b3.webp": "/vijaybhavan2/static/media/mahimhalwa.b840a0b3.webp",
+    "static/media/makachivda.b277a512.webp": "/vijaybhavan2/static/media/makachivda.b277a512.webp",
     "static/media/malaibarfi.dee0ff9c.webp": "/vijaybhavan2/static/media/malaibarfi.dee0ff9c.webp",
     "static/media/malaipeda.5683565e.webp": "/vijaybhavan2/static/media/malaipeda.5683565e.webp",
     "static/media/mangobarfi.801236f6.webp": "/vijaybhavan2/static/media/mangobarfi.801236f6.webp",
@@ -48,6 +53,6 @@
     "static/js/runtime-main.27aaaedf.js",
     "static/js/2.9e0d5b30.chunk.js",
     "static/css/main.dd84d343.chunk.css",
-    "static/js/main.2c6e406f.chunk.js"
+    "static/js/main.d6801567.chunk.js"
   ]
 }
