@@ -27,6 +27,11 @@ import chakli from '/projects/vijaybhava/src/assets/chakli.webp';
 import batatachips from '/projects/vijaybhava/src/assets/batatachips.webp';
 import batatachivdatikhat from '/projects/vijaybhava/src/assets/batatachivdatikhat.webp';
 import khava from '/projects/vijaybhava/src/assets/khava.webp';
+import dudihalwa from '/projects/vijaybhava/src/assets/dudhihalwa.webp';
+import kajukatli from '/projects/vijaybhava/src/assets/kajukatli.webp';
+import kacchachivda from '/projects/vijaybhava/src/assets/kacchachivda.webp';
+import makachivda from '/projects/vijaybhava/src/assets/makachivda.webp';
+import bhakarwadi from '/projects/vijaybhava/src/assets/bhakarwadi.webp';
 
 
 
@@ -200,6 +205,24 @@ export const allsweets =[
     
   },
   {
+    img: dudihalwa,
+    alt: 'Dudi Halwa',
+    name: 'Dudi Halwa',
+    desc:
+    'Dudi halwa is a delicious Indian dessert made using bottle gourd, ghee, sugar and milk.',
+    price: '₹400/kg',
+    
+  },
+  {
+    img: kajukatli,
+    alt: 'Kaju Katli',
+    name: 'Kaju Katli',
+    desc:
+    'Kaju Katli is a traditional Indian cashew fudge candy that is terrifically smooth, thin, and melts in your mouth.',
+    price: '₹800/kg',
+    
+  },
+  {
     img: gulabjamun,
     alt: 'gulab jamun',
     name: 'Gulab Jamun',
@@ -346,6 +369,33 @@ export const allsnacks =[
     price: '₹400/kg',
     
   },
+  {
+    img: kacchachivda,
+    alt: 'Kaccha Chivda',
+    name: 'Kaccha Chivda',
+    desc:
+    'Kaccha Chivda is a very light snack made of thin poha,peanuts and some spices.',
+    price: '₹200/kg',
+    
+  },
+  {
+    img: makachivda,
+    alt: 'Maka Chivda',
+    name: 'Maka Chivda',
+    desc:
+    'Maka Chivda is made with Corn Flakes, Peanuts, Curry Leaves, Cashew Nuts, Curry Leaves, Green Chillies, Turmeric Powder, Red Chilli Powder and Salt. ',
+    price: '₹200/kg',
+    
+  },
+  {
+    img: bhakarwadi,
+    alt: 'Bhakarwadi',
+    name: 'Bhakarwadi',
+    desc:
+    'Bhakarwadi are fried and crisp pinwheels or spirals. They are tasty and have a sweet, spicy and tangy taste.',
+    price: '₹200/kg',
+    
+  },
 ]
 
 export const all =[
@@ -428,6 +478,24 @@ export const all =[
     desc:
     'Jalebi is a sweet which is made by deep-frying maida flour batter in pretzel or circular shapes, which are then soaked in sugar syrup.',
     price: '₹140/kg',
+    
+  },
+  {
+    img: dudihalwa,
+    alt: 'Dudi Halwa',
+    name: 'Dudi Halwa',
+    desc:
+    'Dudi halwa is a delicious Indian dessert made using bottle gourd, ghee, sugar and milk.',
+    price: '₹400/kg',
+    
+  },
+  {
+    img: kajukatli,
+    alt: 'Kaju Katli',
+    name: 'Kaju Katli',
+    desc:
+    'Kaju Katli is a traditional Indian cashew fudge candy that is terrifically smooth, thin, and melts in your mouth.',
+    price: '₹800/kg',
     
   },
   {
@@ -599,6 +667,33 @@ export const all =[
   desc:
   'Potato chips is basically sliced potato fried and served.',
   price: '₹400/kg',
+  
+},
+{
+  img: kacchachivda,
+  alt: 'Kaccha Chivda',
+  name: 'Kaccha Chivda',
+  desc:
+  'Kaccha Chivda is a very light snack made of thin poha,peanuts and some spices.',
+  price: '₹200/kg',
+  
+},
+{
+  img: makachivda,
+  alt: 'Maka Chivda',
+  name: 'Maka Chivda',
+  desc:
+  'Maka Chivda is made with Corn Flakes, Peanuts, Curry Leaves, Cashew Nuts, Curry Leaves, Green Chillies, Turmeric Powder, Red Chilli Powder and Salt. ',
+  price: '₹200/kg',
+  
+},
+{
+  img: bhakarwadi,
+  alt: 'Bhakarwadi',
+  name: 'Bhakarwadi',
+  desc:
+  'Bhakarwadi are fried and crisp pinwheels or spirals. They are tasty and have a sweet, spicy and tangy taste.',
+  price: '₹200/kg',
   
 },
 ]
