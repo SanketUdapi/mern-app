@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/vijaybhavan2/static/css/main.dd84d343.chunk.css",
-    "main.js": "/vijaybhavan2/static/js/main.d6801567.chunk.js",
-    "main.js.map": "/vijaybhavan2/static/js/main.d6801567.chunk.js.map",
+    "main.js": "/vijaybhavan2/static/js/main.b07c1329.chunk.js",
+    "main.js.map": "/vijaybhavan2/static/js/main.b07c1329.chunk.js.map",
     "runtime-main.js": "/vijaybhavan2/static/js/runtime-main.27aaaedf.js",
     "runtime-main.js.map": "/vijaybhavan2/static/js/runtime-main.27aaaedf.js.map",
     "static/js/2.9e0d5b30.chunk.js": "/vijaybhavan2/static/js/2.9e0d5b30.chunk.js",
@@ -13,6 +13,7 @@
     "static/css/main.dd84d343.chunk.css.map": "/vijaybhavan2/static/css/main.dd84d343.chunk.css.map",
     "static/js/2.9e0d5b30.chunk.js.LICENSE.txt": "/vijaybhavan2/static/js/2.9e0d5b30.chunk.js.LICENSE.txt",
     "static/media/badamhalwa.54c7cfbe.webp": "/vijaybhavan2/static/media/badamhalwa.54c7cfbe.webp",
+    "static/media/balushahi.2a3fb383.webp": "/vijaybhavan2/static/media/balushahi.2a3fb383.webp",
     "static/media/batatachips.83414ed8.webp": "/vijaybhavan2/static/media/batatachips.83414ed8.webp",
     "static/media/batatachivda.7145a404.webp": "/vijaybhavan2/static/media/batatachivda.7145a404.webp",
     "static/media/batatachivdatikhat.442de302.webp": "/vijaybhavan2/static/media/batatachivdatikhat.442de302.webp",
@@ -47,12 +48,13 @@
     "static/media/shev.0fa5ba54.webp": "/vijaybhavan2/static/media/shev.0fa5ba54.webp",
     "static/media/sonpapdi.aec211bd.webp": "/vijaybhavan2/static/media/sonpapdi.aec211bd.webp",
     "static/media/specialchivda.e9882413.webp": "/vijaybhavan2/static/media/specialchivda.e9882413.webp",
-    "static/media/stock1.861930d9.webp": "/vijaybhavan2/static/media/stock1.861930d9.webp"
+    "static/media/stock1.861930d9.webp": "/vijaybhavan2/static/media/stock1.861930d9.webp",
+    "static/media/sukhagulabjam.def7e165.webp": "/vijaybhavan2/static/media/sukhagulabjam.def7e165.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.27aaaedf.js",
     "static/js/2.9e0d5b30.chunk.js",
     "static/css/main.dd84d343.chunk.css",
-    "static/js/main.d6801567.chunk.js"
+    "static/js/main.b07c1329.chunk.js"
   ]
 }
