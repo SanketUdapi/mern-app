@@ -32,6 +32,8 @@ import kajukatli from '/projects/vijaybhava/src/assets/kajukatli.webp';
 import kacchachivda from '/projects/vijaybhava/src/assets/kacchachivda.webp';
 import makachivda from '/projects/vijaybhava/src/assets/makachivda.webp';
 import bhakarwadi from '/projects/vijaybhava/src/assets/bhakarwadi.webp';
+import sukhagulabjamun from '/projects/vijaybhava/src/assets/sukhagulabjam.webp';
+import balushahi from '/projects/vijaybhava/src/assets/balushahi.webp';
 
 
 
@@ -232,6 +234,15 @@ export const allsweets =[
     
   },
   {
+    img: sukhagulabjamun,
+    alt: 'Sukha gulab jamun',
+    name: 'Sukha Gulab Jamun',
+    desc:
+    'Sukha Gulab jamun is a lghtly dried version of gulab jamun with sugar voated over it.',
+    price: '₹300/kg',
+    
+  },
+  {
     img: mysorepak,
     alt: 'Mysore Pak',
     name: 'Mysore Pak',
@@ -268,6 +279,15 @@ export const allsweets =[
     
   },
   {
+  img: balushahi,
+  alt: 'Balushahi',
+  name: 'Balushahi',
+  desc:
+    'Balushahi is one of the traditional Indian sweets made using all-purpose flour, ghee, and yogurt.',
+  price: '₹200/kg',
+  
+},
+{
   img: khava,
   alt: 'khava',
   name: 'Khava',
@@ -348,7 +368,7 @@ export const allsnacks =[
     name: 'Chakli',
     desc:
     'Chakli is a spiral shaped snack with a spiked surface. Chakli is typically made from flours of rice',
-    price: '₹240/kg',
+    price: '₹360/kg',
     
   },
   {
@@ -535,6 +555,15 @@ export const all =[
     
   },
   {
+    img: sukhagulabjamun,
+    alt: 'Sukha gulab jamun',
+    name: 'Sukha Gulab Jamun',
+    desc:
+    'Sukha Gulab jamun is a lghtly dried version of gulab jamun with sugar voated over it.',
+    price: '₹300/kg',
+    
+  },
+  {
     img: mysorepak,
     alt: 'Mysore Pak',
     name: 'Mysore Pak',
@@ -568,6 +597,15 @@ export const all =[
     desc:
     'Badam halwa is a jelly-like sweet  made with basically four ingredients – corn flour, ghee, water and sugar.',
     price: '₹240/kg',
+    
+  },
+  {
+    img: balushahi,
+    alt: 'Balushahi',
+    name: 'Balushahi',
+    desc:
+      'Balushahi is one of the traditional Indian sweets made using all-purpose flour, ghee, and yogurt.',
+    price: '₹200/kg',
     
   },
   {
@@ -648,7 +686,7 @@ export const all =[
   name: 'Chakli',
   desc:
   'Chakli is a spiral shaped snack with a spiked surface. Chakli is typically made from flours of rice',
-  price: '₹240/kg',
+  price: '₹360/kg',
   
 },
 {
